@@ -1,0 +1,3 @@
+[submodule "UDPSockets"]
+	path = UDPSockets
+	url = https://github.com/octavio-gutierrez/UDPSockets.git
